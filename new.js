@@ -1,2 +1,3 @@
 console.log("Hello John")
-let x = 32;
+let x = 4;  
+
